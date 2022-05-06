@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: c183ab63ece86e64fbad654617e92dee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 771945933940771876
+    second: "\u2014Pngtree\u2014game icon set vector design_5997026_0"
+  - first:
+      213: -3638374641012987312
+    second: "\u2014Pngtree\u2014game icon set vector design_5997026_1"
+  - first:
+      213: -6769744883211412450
+    second: "\u2014Pngtree\u2014game icon set vector design_5997026_2"
+  - first:
+      213: -3782849717454446625
+    second: "\u2014Pngtree\u2014game icon set vector design_5997026_3"
+  - first:
+      213: -2205004933214321545
+    second: "\u2014Pngtree\u2014game icon set vector design_5997026_4"
+  - first:
+      213: 363045947860208991
+    second: "\u2014Pngtree\u2014game icon set vector design_5997026_5"
+  - first:
+      213: -1343339386141338942
+    second: "\u2014Pngtree\u2014game icon set vector design_5997026_6"
+  - first:
+      213: -3785118212379253652
+    second: "\u2014Pngtree\u2014game icon set vector design_5997026_7"
+  - first:
+      213: -7522416548494441767
+    second: "\u2014Pngtree\u2014game icon set vector design_5997026_8"
+  - first:
+      213: 7518403111065010176
+    second: "\u2014Pngtree\u2014game icon set vector design_5997026_9"
+  - first:
+      213: 6404033840501583743
+    second: "\u2014Pngtree\u2014game icon set vector design_5997026_10"
+  - first:
+      213: 5927718893245449169
+    second: "\u2014Pngtree\u2014game icon set vector design_5997026_11"
+  - first:
+      213: 5318917557760549507
+    second: "\u2014Pngtree\u2014game icon set vector design_5997026_12"
+  - first:
+      213: -8378930724536320834
+    second: "\u2014Pngtree\u2014game icon set vector design_5997026_13"
+  - first:
+      213: -5459203383207872013
+    second: "\u2014Pngtree\u2014game icon set vector design_5997026_14"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game icon set vector design_5997026_0"
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 922
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cc85aacb086ba00800000000000000
+      internalID: 771945933940771876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game icon set vector design_5997026_1"
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 922
+        width: 174
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05aa1aa7a85e18dc0800000000000000
+      internalID: -3638374641012987312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game icon set vector design_5997026_2"
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 922
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c5a2875e80d02a0800000000000000
+      internalID: -6769744883211412450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game icon set vector design_5997026_3"
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 721
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfd070793e908bc0800000000000000
+      internalID: -3782849717454446625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game icon set vector design_5997026_4"
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 721
+        width: 174
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774c6c322bf3661e0800000000000000
+      internalID: -2205004933214321545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game icon set vector design_5997026_5"
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 721
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d4a57bd5cc90500800000000000000
+      internalID: 363045947860208991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game icon set vector design_5997026_6"
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 519
+        width: 173
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2114412ff7b5de0800000000000000
+      internalID: -1343339386141338942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game icon set vector design_5997026_7"
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 519
+        width: 174
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64e54e4a0f887bc0800000000000000
+      internalID: -3785118212379253652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game icon set vector design_5997026_8"
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 519
+        width: 173
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2087e21020b9790800000000000000
+      internalID: -7522416548494441767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game icon set vector design_5997026_9"
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 318
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000c8399bcbb65860800000000000000
+      internalID: 7518403111065010176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game icon set vector design_5997026_10"
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 318
+        width: 174
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f6da019d2bfd850800000000000000
+      internalID: 6404033840501583743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game icon set vector design_5997026_11"
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 318
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d344405dec734250800000000000000
+      internalID: 5927718893245449169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game icon set vector design_5997026_12"
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 105
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382e7e3865790d940800000000000000
+      internalID: 5318917557760549507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game icon set vector design_5997026_13"
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 105
+        width: 174
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcf76646ee08bb80800000000000000
+      internalID: -8378930724536320834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game icon set vector design_5997026_14"
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 105
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9b84372730d34b0800000000000000
+      internalID: -5459203383207872013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 31921e275a23adc43889a50358d2c99f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
