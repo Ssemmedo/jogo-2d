@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class moverPlayer : MonoBehaviour
 {
 
-    public float velocidade;
+    /*public float velocidade;
     
     public Animator anim;
 
@@ -18,11 +18,11 @@ public class moverPlayer : MonoBehaviour
 
     private BoxCollider2D caixaColisao;
 
-    private GameObject obstaculo;
+    private GameObject obstaculo;*/
 
     public Rigidbody2D rdb2D;
 
-    public static int moedas;
+    //public static int moedas;
 
     public AudioClip efeitoSonoroMoedas;
     public AudioClip efeitoSonoroGato;
@@ -37,7 +37,7 @@ public class moverPlayer : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        anim = GetComponent<Animator>();
+        /*anim = GetComponent<Animator>();
 
         caixaColisao = GetComponent<BoxCollider2D>();
 
@@ -45,7 +45,9 @@ public class moverPlayer : MonoBehaviour
 
         moedas = 0;
 
-        obstaculo = GameObject.FindGameObjectWithTag("Obstaculos");
+        obstaculo = GameObject.FindGameObjectWithTag("Obstaculos");*/
+
+        rdb2D = GetComponent<Rigidbody2D>();
 
         audioSource = GetComponent<AudioSource>();
     }
@@ -55,17 +57,17 @@ public class moverPlayer : MonoBehaviour
     {
         if (Input.GetKeyDown("space"))
         {
-            rdb2D.AddForce(transform.up * 400);
+            rdb2D.AddForce(transform.up * 4000);
 
-            anim.SetTrigger("pulando");
+            //anim.SetTrigger("pulando");
 
         }
         else 
         {
-            anim.SetTrigger("correndo");
+            //anim.SetTrigger("correndo");
         }
     }
-
+    /*
     void OnTriggerEnter2D(Collider2D col) 
     {
         if (col.tag == "Obstaculos") 
@@ -90,7 +92,7 @@ public class moverPlayer : MonoBehaviour
         pontuacao++;
 
         audioSource.PlayOneShot(efeitoSonoroItem);
-    }
+    }*/
 
 
 }
